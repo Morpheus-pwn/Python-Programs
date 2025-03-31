@@ -15,4 +15,4 @@ distance traveled by a ball, given three inputs—the initial height from which 
 13.	Write GUI program to compute and displays the square root of an input number.
 14.	Write a GUI program to inputs the integer, computes the square root, and outputs the result and handles input errors by displaying a message box.
 
-NOTE: 
+NOTE: Program 12 and 14 are repeated...
